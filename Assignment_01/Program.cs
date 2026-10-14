@@ -46,7 +46,19 @@ namespace Assignment_01
 
             #endregion
 
-      
+            #region Question04
+
+            //var q4 = products.Where(p => p.UnitsInStock > 0 && p.Category == "Condiments");
+
+            //foreach (var item in q4)
+            //{
+            //    Console.WriteLine($"Name: {item.ProductName}, Category: {item.Category}, In Stock: {item.UnitsInStock}");
+            //}
+
+            #endregion
+
+          
+
 
         }
     }
