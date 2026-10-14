@@ -57,7 +57,23 @@ namespace Assignment_01
 
             #endregion
 
-          
+            #region Question05
+
+            //var q5 = products.Select(p => new
+            //{
+            //    Name = p.ProductName,
+            //    Price = p.UnitPrice,
+            //    StockStatus = p.UnitsInStock > 0 ? "Available" : "Out of Stock"
+            //});
+
+
+            // foreach (var item in q5)
+            // {
+            //     Console.WriteLine($"Name: {item.Name}, Price: {item.Price}, Status: {item.StockStatus}");
+            // }
+
+            #endregion
+
 
 
         }
