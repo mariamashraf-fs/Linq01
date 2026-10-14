@@ -74,6 +74,16 @@ namespace Assignment_01
 
             #endregion
 
+            #region 
+
+            //var q6 = products.Select((p, index) => $"{index + 1}. {p.ProductName}");
+
+            //foreach (var line in q6)
+            //{
+            //    Console.WriteLine(line);
+            //}
+
+            #endregion
 
 
         }
