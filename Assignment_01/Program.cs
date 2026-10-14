@@ -34,6 +34,20 @@ namespace Assignment_01
 
             #endregion
 
+
+            #region Question03
+
+            //var q3 = products.Where(p => p.UnitPrice >= 10 && p.UnitPrice <= 30);
+
+            //foreach (var item in q3)
+            //{
+            //    Console.WriteLine($"Name: {item.ProductName}, Price: {item.UnitPrice}");
+            //}
+
+            #endregion
+
+      
+
         }
     }
 }
