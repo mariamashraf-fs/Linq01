@@ -22,6 +22,18 @@ namespace Assignment_01
 
             #endregion
 
+
+            #region Question02
+
+            //var q2 = products.Select(p => p.ProductName);
+
+            //foreach (var item in q2)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
+
         }
     }
 }
